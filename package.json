@@ -1,0 +1,19 @@
+{
+  "name": "skymass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon hello.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@skymass/skymass": "^0.1.107",
+    "node-localstorage": "^2.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
